@@ -125,3 +125,4 @@ f<-function(num)
 x=f(5)
 x
 f()
+object.size(plants)
